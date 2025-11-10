@@ -1,5 +1,2 @@
 # JS-Fundamentals
-
-Task 0 – JavaScript is amazing
-
-
+Task 0: Print "JavaScript is amazing"
